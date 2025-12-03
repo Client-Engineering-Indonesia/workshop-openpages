@@ -27,7 +27,7 @@ Leveraging a core, shared services and open architecture, IBM OpenPages Financia
 
 ## Hands-On Materials
 
-For this lab you will be able to run through IBM OpenPages Financial Control Management (FCM) module by following these steps:
+For this lab you will be able to run through IBM OpenPages Financial Control Management (FCM) module on Scoping stage, Review of Internal Control stagem and Operational Effectiveness Testing. At glance, here are the steps:
 
 1. Create Process and Sub Process - [link](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/Financial%20Control%20Management/01-Create%20Process%20and%20Sub%20Process.md)
 2. Define Risk and Mapping Control - [link](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/Financial%20Control%20Management/02-Define%20Risk%20and%20Control.md)
