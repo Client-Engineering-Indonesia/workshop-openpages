@@ -55,3 +55,10 @@
 
 <img width="1896" height="531" alt="image" src="https://github.com/user-attachments/assets/657c5ee1-0bf3-484a-a48f-ed8124c9b96a" />
 
+## Review Process Tree Map
+
+Go back to your Process page, scroll down to Process Map section. Now you can see all associations of your process.
+
+<img width="1391" height="533" alt="image" src="https://github.com/user-attachments/assets/8bf8961e-cb17-47ad-892d-86da922ad57d" />
+
+
