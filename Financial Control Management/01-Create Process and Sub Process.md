@@ -48,9 +48,15 @@ Get access to IBM OpenPages by opening this [page](https://github.com/Client-Eng
 
 1. Scroll down until you find Sub-Process section -> click New Sub Process button
 
-![Uploading image.png…]()
+<img width="1387" height="243" alt="image" src="https://github.com/user-attachments/assets/77c0ed34-0f74-4520-a708-a0427770f40a" />
 
-2. 
-2. 
+2. Set Name to SP01-<i>your initial</i>-Procurement -> set Description to ```Procurement process``` -> click Save button
+
+<img width="1888" height="835" alt="image" src="https://github.com/user-attachments/assets/46d1336a-432a-4a66-9c2d-19746de91b04" />
+
+4. In your new created sub process page, scroll down until you find Risk, Control Information section -> ensure your sub process is linked to your previous process
+
+<img width="1377" height="589" alt="image" src="https://github.com/user-attachments/assets/a391010d-99fb-42cc-ad26-73c9e0570b58" />
+
 
 
