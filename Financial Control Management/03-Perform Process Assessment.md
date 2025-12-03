@@ -51,7 +51,7 @@
 
 <img width="1403" height="477" alt="image" src="https://github.com/user-attachments/assets/5a84233e-6b25-46c5-815f-4820c15fe4a0" />
 
-4. Click
+4. Click Action button -> select Submit for review -> click Done -> you have completed questionnaire assessment
 
 <img width="1896" height="531" alt="image" src="https://github.com/user-attachments/assets/657c5ee1-0bf3-484a-a48f-ed8124c9b96a" />
 
