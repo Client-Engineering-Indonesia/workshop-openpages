@@ -32,8 +32,13 @@
 
 <img width="1379" height="369" alt="image" src="https://github.com/user-attachments/assets/dd1b6dfe-ff1b-48c0-adf3-ee443ce86206" />
 
-4. Scroll down to section Related Content -> click tab Evidence & Files -> here you will see why test result is failed
+4. Scroll down to section Related Content -> click tab Evidence & Files 
 
 <img width="1379" height="500" alt="image" src="https://github.com/user-attachments/assets/4f1b8c4d-929d-4154-aa80-474ec091e07a" />
+
+5. Download file named "Access logs sample.xls" -> open it -> you will be able to see the details why the test is failed
+
+<img width="1280" height="795" alt="image" src="https://github.com/user-attachments/assets/e8afea5b-ceb8-4379-9392-b4182589aa48" />
+
 
 
