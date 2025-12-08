@@ -384,6 +384,7 @@ Issues track problems, risks, or findings associated with the system.
 ![Step 45](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/Assets/45.%20give%20a%20name%20for%20the%20issues%20and%20add%20the%20description.png)
 
 Ownership ensures someone is responsible for resolving the issue.  
+Here you can Enchance your description using embedded IBM WatsonX
 **Action:** Select the user who will own this issue.
 
 ---
