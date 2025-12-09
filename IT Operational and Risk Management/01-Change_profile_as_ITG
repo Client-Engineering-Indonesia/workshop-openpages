@@ -1,0 +1,33 @@
+# IBM OpenPages IT GRC — Initial Navigation Tutorial  
+### Steps by steos — Accessing the Settings Menu & Changing Profiles
+
+This short guide walks you through the first steps when navigating IBM OpenPages for IT GRC.  
+
+Access the Link for open pages below:
+
+[Openpages_url](http://jp-tok.services.cloud.techzone.ibm.com:22650/openpages/)
+
+---
+
+# **Step 1 — Open the Settings Menu**
+![Step 1](<insert-image-link-for-0.1>)
+
+In the upper-right corner of the OpenPages interface, click the **gear icon**.  
+This icon opens the system settings panel where you can access configuration options.
+
+**Why this step matters:**  
+You need to open the settings menu before you can change your working profile or adjust any system preferences.
+
+---
+
+# **Step 2 — Change Your Active Profile**
+![Step 2](<insert-image-link-for-0.2>)
+
+After clicking the gear icon, a settings menu will appear.  
+Select **“Change Profile”** and choose the profile name:
+
+```text
+OpenPages ITG 7.2.0 Master
+```
+
+[Openpages_url](<insert-link-to-next-page>)
