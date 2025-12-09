@@ -12,7 +12,7 @@ Access the Link for open pages below:
 # **Step 1 — Open the Settings Menu**
 ![Step 1](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/others/0.1.%20press%20the%20gear%20button%20and%20choose%20change%20profile.png)
 
-In the upper-right corner of the OpenPages interface, click the **gear icon**.  
+In the upper-right corner of the OpenPages interface, click the **Person icon**.  
 This icon opens the system settings panel where you can access configuration options.
 
 **Why this step matters:**  
