@@ -3,7 +3,7 @@
 
 This short guide walks you through the first steps when navigating IBM OpenPages for IT GRC.  
 
-Access the Link for open pages below:
+Access the Link for open pages below (If you already in Openpages ignore the click link):
 
 [Openpages_url](http://jp-tok.services.cloud.techzone.ibm.com:22650/openpages/)
 
