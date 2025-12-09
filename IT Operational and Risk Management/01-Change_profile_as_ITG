@@ -10,7 +10,7 @@ Access the Link for open pages below:
 ---
 
 # **Step 1 — Open the Settings Menu**
-![Step 1](<insert-image-link-for-0.1>)
+![Step 1](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/others/0.1.%20press%20the%20gear%20button%20and%20choose%20change%20profile.png)
 
 In the upper-right corner of the OpenPages interface, click the **gear icon**.  
 This icon opens the system settings panel where you can access configuration options.
@@ -21,7 +21,7 @@ You need to open the settings menu before you can change your working profile or
 ---
 
 # **Step 2 — Change Your Active Profile**
-![Step 2](<insert-image-link-for-0.2>)
+![Step 2](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/others/0.2%20change%20profile%20to%20OpenPages%20ITG%207.2.0%20Master.png)
 
 After clicking the gear icon, a settings menu will appear.  
 Select **“Change Profile”** and choose the profile name:
@@ -30,4 +30,6 @@ Select **“Change Profile”** and choose the profile name:
 OpenPages ITG 7.2.0 Master
 ```
 
-[Openpages_url](<insert-link-to-next-page>)
+# **Step 3 — Proceed to the the tutorial**
+
+[Tutorial](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/02-Tutorial.md)
