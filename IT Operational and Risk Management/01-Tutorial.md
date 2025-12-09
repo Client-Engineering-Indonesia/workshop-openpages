@@ -166,7 +166,14 @@ New systems must be registered to bring them under governance.
 ---
 
 ## **Step 20 — Add Classification & Risk**
+
+Make sur to put the IT systems name as "LOS_[your initial]"
+
+![Step 25](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/Assets/25.%20click%20save.png)
+
+
 ![Step 20](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/Assets/20.%20here%20you%20can%20give%20the%20systems%20classification%20level%20and%20risk%20assesment.png)
+
 
 Classification and risk help determine the level of controls required.  
 **Action:** Fill in fields for **Classification**, **Risk Score**, and **Impact**.
