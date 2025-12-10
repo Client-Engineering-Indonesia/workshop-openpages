@@ -197,7 +197,7 @@ Linking the system to a business entity aligns it with organizational structure.
 
 ---
 
-## **Step 23 — Navigate Pages to Find Entity**
+## **Step 23 — Navigate Pages to Find Business Entity**
 ![Step 23](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/Assets/23.%20click%20onm%20the%20pages%20number%20and%20go%20to%20pages%20number%203.png)
 
 Use pagination to browse through all available business entities.  
@@ -205,7 +205,7 @@ Use pagination to browse through all available business entities.
 
 ---
 
-## **Step 24 — Select “IT” Entity**
+## **Step 24 — Select “IT” Business Entity**
 ![Step 24](https://github.com/Client-Engineering-Indonesia/workshop-openpages/blob/main/IT%20Operational%20and%20Risk%20Management/Assets/24.%20click%20IT%20as%20our%20Parent%20Business%20Entity.png)
 
 Here, **IT** is chosen as the parent entity for the system.  
